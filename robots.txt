@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://johihepekuvi.netlify.app/sitemap.xml
